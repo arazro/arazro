@@ -1,9 +1,15 @@
 Araz Rostami
+
 as.araz@gmail.com
+
 www.linkedin.com/in/arazrostami
+
 Skype: araz.rostami
 
+
 Senior developer 
+
+
 Detail-oriented and self-motivated and experienced over 16 years to produce software,
 websites, and application in a variety of industries. As a. JavaScript (React, Vue)
 developer with a proven track record of success in developing and implementing solutions,
