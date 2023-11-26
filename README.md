@@ -10,10 +10,4 @@ Skype: araz.rostami
 Senior developer 
 
 
-Detail-oriented and self-motivated and experienced over 16 years to produce software,
-websites, and application in a variety of industries. As a. JavaScript (React, Vue)
-developer with a proven track record of success in developing and implementing solutions,
-maintaining. Certified web development professional with a deep passion for technology,
-expensive technological expertise, and well-developed team-worked abilities. Assisted in 
-the back-end development and documentation, UI development, assist other developers in 
-methodology documentation when needed. 
+Experienced Full-Stack Developer with a strong background in both front-end and back-end web development. Proficient in a wide range of programming languages, frameworks, and technologies, with a keen eye for detail and a commitment to delivering high-quality, user-friendly web applications. Skilled in database management, server deployment, and web security. Adept at collaborating with cross-functional teams and continuously adapting to emerging industry trends. Seeking opportunities to leverage my expertise in creating innovative and responsive web solutions that drive business growth.
